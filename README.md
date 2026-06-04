@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hey, I'm Vansh Tiwari 👋
-### Full-Stack Developer • Adobe Campus Ambassador • ML Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b344f5,50:7b2fff,100:00c8ff&height=200&section=header&text=Vansh%20Tiwari&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%E2%80%A2%20Adobe%20Campus%20Ambassador%20%E2%80%A2%20ML%20Enthusiast&descAlignY=58&descSize=16&descColor=e0c3ff" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+clean+UIs+from+complex+algorithms;Autonomous+Pothole+Detection+with+YOLOv8;Open+to+collaboration+on+impactful+projects;DSA+%7C+Full-Stack+%7C+AI+%7C+3D+Modelling" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Building+clean+UIs+from+complex+algorithms;Autonomous+Pothole+Detection+with+YOLOv8;Open+to+collaboration+on+impactful+projects;DSA+%7C+Full-Stack+%7C+AI+%7C+3D+Modelling" alt="Typing animation" />
 
 <p>
-  <a href="https://komarev.com/ghpvc/?username=GITaVansh&label=Profile%20views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=GITaVansh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://github.com/GITaVansh?tab=followers"><img src="https://img.shields.io/github/followers/GITaVansh?logo=github&style=for-the-badge" alt="GitHub followers" /></a>
-  <a href="https://github.com/GITaVansh?tab=repositories"><img src="https://img.shields.io/github/stars/GITaVansh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Total stars" /></a>
+  <a href="https://komarev.com/ghpvc/?username=GITaVansh&label=Profile%20views&color=b344f5&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=GITaVansh&label=Profile%20views&color=b344f5&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/GITaVansh?tab=followers"><img src="https://img.shields.io/github/followers/GITaVansh?logo=github&style=for-the-badge&color=7b2fff" alt="GitHub followers" /></a>
+  <a href="https://github.com/GITaVansh?tab=repositories"><img src="https://img.shields.io/github/stars/GITaVansh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00c8ff" alt="Total stars" /></a>
 </p>
 
 </div>
@@ -112,12 +111,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GITaVansh/GITaVansh/output/pacman-contribution-graph.svg">
 </picture>
 
-> ⚙️ To enable the contribution snake, add [this GitHub Action](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) to your repo under `.github/workflows/snake.yml`
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
 <div align="center">
-  <i>🌌 Complex problems deserve elegant solutions 🌌</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:7b2fff,100:b344f5&height=120&section=footer&animation=twinkling" />
 </div>
